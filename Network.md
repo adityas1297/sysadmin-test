@@ -5,6 +5,7 @@ Task 2 -
   http://whois.domaintools.com/iitmandi.ac.in - Gave information about IP, DNS, Domain Registrar etc.
   http://www.ernet.in/domain.html - Confirmed that ERNET India has been appointed as an exclusive domain registrar of domains like ac.in.
   https://www.quora.com/How-do-I-find-the-ownership-history-of-a-domain-without-paying-a-fee
+  https://www.sslshopper.com/ssl-checker.html#hostname=https://students.iitmandi.ac.in/
   
   
   What I learned-
