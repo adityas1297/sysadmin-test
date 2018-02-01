@@ -15,8 +15,9 @@ Edit 1-
       "Nmap done: 256 IP addresses (9 hosts up) scanned in 14.32 seconds"
     3. sudo nmap -F -O 14.139.34.0/24
           The '-O' is to find the OS on the systems.
-          It showed the ports all ips in 14.139.34.0/24 and guessed their OS.OS fingerprint was not ideal in most cases due       to various resoans.
+          It showed the ports all ips in 14.139.34.0/24 and guessed their OS.OS fingerprint was not ideal in most cases due       to various resoans.It took around 10 mins.
           "Nmap done: 256 IP addresses (256 hosts up) scanned in 668.06 seconds".
+          Results uploaded in file named Ports_and_OS_of_PCs.
           
           Will keep diiging...
           
