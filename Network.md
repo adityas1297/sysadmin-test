@@ -1,5 +1,5 @@
 Task 1 - 
-Learn about nmap, furthur investigaton required.
+Learned about nmap, furthur investigaton required.
 
 
 
