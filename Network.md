@@ -1,3 +1,8 @@
+Task 1 - 
+Learn about nmap, furthur investingaton required.
+
+
+
 Task 2 - It was bought on http://www.ernet.in
   
   How did I find it-
