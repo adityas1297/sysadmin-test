@@ -18,6 +18,27 @@ Edit 1-
           It showed the ports all ips in 14.139.34.0/24 and guessed their OS.OS fingerprint was not ideal in most cases due       to various resoans.It took around 10 mins.
           "Nmap done: 256 IP addresses (256 hosts up) scanned in 668.06 seconds".
           Results uploaded in file named Ports_and_OS_of_PCs.
+   Edit 2-
+      1. "nmap -sP 14.139.34.0/24" can be used to scan a network and find out which servers and devices are up and running.It took 6 seconds.
+            The online host are-
+                14.139.34.2(INTERNET GATEWAY IIT MANDI),
+                mail.students.iitmandi.ac.in (14.139.34.3),
+                14.139.34.4(Central Library, IIT Mandi),
+                14.139.34.8,
+                mail.projects.iitmandi.ac.in (14.139.34.9),
+                14.139.34.10(www.research.iitmandi.ac.in),
+                14.139.34.11(SNTC server),
+                14.139.34.26(OAS),
+                14.139.34.43(DSpace JSPUI).
+                Nmap done: 256 IP addresses (9 hosts up) scanned in 6.76 seconds.
+                
+                
+                        
+                        
+                        
+
+         
+     
           
           Will keep diiging...
           
