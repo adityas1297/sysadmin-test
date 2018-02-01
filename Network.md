@@ -1,5 +1,28 @@
 Task 1 - 
 Learned about nmap, furthur investigaton required.
+Edit 1- 
+   1.  nmap 14.139.34.0/24
+      Output-
+        Starting Nmap 7.01 ( https://nmap.org ) at 2018-02-01 19:49 IST
+        Warning: 14.139.34.10 giving up on port because retransmission cap hit (10).
+      The command ran for some time but sort of timed-out without giving any results.
+   2. nmap -F 14.139.34.0/24
+        "-F (Fast (limited port) scan) .
+             Specifies that you wish to scan fewer ports than the default.
+             Normally Nmap scans the most common 1,000 ports for each scanned
+             protocol. With -F, this is reduced to 100."(From the man page of nmap).
+      It showed ports of 9 hosts in 14 seconds
+      "Nmap done: 256 IP addresses (9 hosts up) scanned in 14.32 seconds"
+    3. sudo nmap -F -O 14.139.34.0/24
+          The '-O' is to find the OS on the systems.
+          It showed the ports all ips in 14.139.34.0/24 and guessed their OS.OS fingerprint was not ideal in most cases due       to various resoans.It took around 10 mins.
+          "Nmap done: 256 IP addresses (256 hosts up) scanned in 668.06 seconds".
+          Results uploaded in file named Ports_and_OS_of_PCs.
+          
+          Will keep diiging...
+          
+      
+   
 
 
 
