@@ -12,7 +12,7 @@ Task 2 - It was bought on http://www.ernet.in
   What I learned-
   1. WHOIS can be use to get information about websites.
   2. About Domain registars
-  3. SSL Client Certificate to student.iitmandi.ac.in is given by GoDaddy.com, Inc.(and it expires in DEC -19 :P)
+  3. SSL Client Certificate to student.iitmandi.ac.in was given by GoDaddy.com, Inc.(and it expires in DEC-19 :P)
   
 
 Task 3 - DuckDuckGo owns ZERO data-centres, it runs on 4 AWS datacenters (California, Virginia, Singapore, Ireland).
