@@ -35,7 +35,7 @@ Edit 1-
         2. When I used sudo nmap -F -O 14.139.34.0/24 to find the OS of all online machines it scanned all 256 IP addresses, but most of them where either filtered ports (maybe protected by a firewall) or closed port.So to get the OS of online devics took alot of time(over 11 mins).So I found it more efficent to find the online hosts using -sP and then using "sudo nmap -O -F -sSU IP" for individual IPs.Each took around 10 secs,and there was no significant loss of information while using "-F" option and it saved a lot of time.
 
          
-              >>>>>>  Their ports,OS and other infomation in the file "ports_and_os_final" .  <<<<<<<
+              >>>>>>  Their ports,OS and other infomation in the file "ports_and_os_final" . >>>>>>>
                 
                 Conclusion so far-
                  1. Nmap is a great tool to find information about ports and OS of devices connected to a network.
