@@ -32,6 +32,15 @@ Edit 1-
                 14.139.34.43(DSpace JSPUI).
                 Nmap done: 256 IP addresses (9 hosts up) scanned in 6.76 seconds.
                 
+        2. When I used sudo nmap -F -O 14.139.34.0/24 to find the OS of all online machines it scanned all 256 IP addresses, but most of them where either filtered ports (maybe protected by a firewall) or closed port.So to get the OS of online devics took alot of time(over 11 mins).So found it more easier to find the online hosts 
+         
+              >>>>>>  Their ports,OS and other infomation in the file "ports_and_os_final" .  <<<<<<<
+                
+                Conclusion 
+                 1. Nmap is a great tool to find information about ports and OS of devices connected to a network.
+                 2. nmap -sP 14.139.34.0/24 was the fastest way i could find to find online hosts(6.76 secs).
+                 3. 
+                
                 
                         
                         
