@@ -46,7 +46,7 @@ Edit 1-
                  
      
           
-          Will keep diiging...
+          Will keep diging...
           What I learned so far -
             1. About nmap.
             2. About ports,different porrts are used for different things.
