@@ -18,6 +18,7 @@ To sum up-
 What did I learn - 
 1. Difference between containers and Virtual machines.
 2. Docker commands like RUN, CMD, EXPOSE, WORKDIR.
+3. How a small container can be used for developing an app.
 
 Resources - 
 1. https://docs.docker.com/get-started/
