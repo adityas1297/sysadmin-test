@@ -6,6 +6,7 @@ Tagged it using "sudo docker tag adityatest adityas1297/systest1" and finally pu
 ")
 
 "sudo docker run adityas1297/systest1" where adityas1297/systest1 is the IMAGE_NAME in the problem, should run give you the the desired output.
+Link to dockerhub - https://hub.docker.com/r/adityas1297/systest1/tags/
 
 To sum up-
 1. Read the first two pages of docker documetation.
