@@ -4,4 +4,12 @@ fatal: [localhost]: FAILED! => {"changed": false, "msg": "Region is not availabl
 
 file:///home/singh/streisand/generated-docs/streisand-1.html is showing step-by-step instructions for the services it provides.
 
-Connected to my Streisand Gateway
+Connected to my Streisand Gateway with SSL
+
+Used OpenVPN(direct)
+Used Linux(ubuntu) way of configuring OpenVPN
+  In step 17 "Server Certificate Check" option was not there in the TLS Authentication tab.
+  "Go to the TLS Authentication tab
+      Under Server Certificate Check choose verify name exactly and enter stable-unfair-exclude as its value."
+ Followed the 20 step instructions and my IP changed to 139.59.56.186 .
+
